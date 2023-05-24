@@ -1,122 +1,103 @@
-### 30.01.2023 (announcement Analytix)
-- https://github.com/linkspreed/Analytix/blob/main/changelog.md
+### 24.05.2023 (announcement BioX)
+- 👨‍💻👩‍💻 Exciting update! We're currently working on the Github Repository for BioX. 🌱🧬 Are you interested in contributing to our open-source project? Let us know! #BioX #OpenSource #Github #Contribute 🤝 What kind of BioX features would you like to see in our repository?
+
+### 24.05.2023 (announcement BioX)
+- 🌿We're planting big ideas for our #BioX platform! 🚀Our team is working hard to create the ultimate platform for bio and short links!🤓 Want to join our mission and make your links stand out even more? Let's grow together!👊 What features would you like to see on #BioX?🤔
+
+### 23.05.2023 (announcement BioX)
+- 👨‍💻👩‍💼💼💰💻📚 We're still working hard on developing our own accounting software! 💻📈 What features do you think are most important in financial software? #accounting #tech #business #softwaredevelopment 🤔
+
+### 23.05.2023 (announcement BioX)
+- 🌟 Exciting news coming soon! We're planning to release a Github repository for BioX within the next few days, where you can easily check all the patch notes. 📝 Are you excited to take a closer look? 🤔 #BioX #Github #PatchNotes #ExcitingNews
+
+### 23.05.2023 (announcement BioX)
+- 🌿👨‍💻📈 Exciting news! We're proud to announce that BioX Version 3.0.3 is now available online. 🎉🚀 What new features are you most excited to try out? #BioX #Version3point0point3 #NewFeatures #Biology #Genetics #Research 💻🧬🔬
+
+### 23.05.2023 (announcement BioX)
+- https://github.com/linkspreed/BioX/blob/main/changelog.md
 - The entire changelog is now available on Github.
 
-### 30.01.2023 (announcement Analytix)
-- The launch of version 3.6.1 of **Analytix** was successful! 🥳
+### 23.05.2023 (announcement BioX)
+- The launch of version 3.0.3 of **BioX** was successful! 🥳
 - The new update is live now :)
-- https://analytix.tk 🔗
+- https://biox.ga 🔗
 
-### 30.01.2023 (announcement Analytix)
-- We are now starting the launch of v3.6.1.
+### 23.05.2023 (announcement BioX)
+- We are now starting the launch of v3.0.3.
 
-### 30.01.2023 (announcement Analytix)
-- The servers are now ready for the launch of version 3.6.1 for **Analytix**.
+### 23.05.2023 (announcement BioX)
+- The servers are now ready for the launch of version 3.0.3 for **BioX**.
 
-### 30.01.2023 (announcement Analytix)
-- The code is now ready for the launch of version 3.6.1 for **Analytix**.
+### 23.05.2023 (announcement BioX)
+- The code is now ready for the launch of version 3.0.3 for **BioX**.
 
-### 30.01.2023 (announcement Analytix)
--  **Analytix** gets a big update today - we are going to launch v3.6.1. 😍
+### 23.05.2023 (announcement BioX)
+-  **BioX** gets a big update today - we are going to launch v3.0.3. 😍
 
-### 24.01.2023 (announcement Analytix)
-- Now you can also access Analytix via the following Linkspreed subdomain for the launch!
-- https://analytix.linkspreed.com/
+### 23.05.2023 (announcement BioX)
+- 🔬💻👨‍🔬 We're hard at work on Biox 3.0.3 and can't wait to share it with you all! What new features are you hoping to see in this latest version? #Biox #SoftwareUpdate #Tech #Science 🤖🧬
 
-### 16.01.2023 (announcement Analytix)
-- https://github.com/linkspreed/Analytix/blob/main/changelog.md
-- The entire changelog is now available on Github.
+### 21.04.2023 (announcement BioX)
+- The BioX test was a success 🙌🏼 and I'm thrilled to report that the results were 💯 outstanding 🥳 #health #success #Biotechnology
 
-### 16.01.2023 (announcement Analytix)
-- The launch of version 3.6 of **Analytix** was successful! 🥳
-- The new update is live now :)
-- https://analytix.tk 🔗
+### 21.04.2023 (announcement BioX [API])
+- 👩‍💻Attention developers!👨‍💻 Have you heard of the BioX API? 🌐 Check out their documentation here: https://biox.ga/api-docs 📚 and start integrating it into your projects! 🔥 #API #BioX #developers #coding #tech
 
-### 16.01.2023 (announcement Analytix)
-- We are now starting the launch of v3.6.
+### 21.04.2023 (announcement BioX)
+- 🚀 We're conducting a massive test run on BioX to ensure flawless performance. 🧪 All features and functions are being thoroughly tested 🕵️‍♀️. Stay tuned for more updates! 👀 #BioX #Testing #Tech #Innovation
 
-### 16.01.2023 (announcement Analytix)
-- The servers are now ready for the launch of version 3.6 for **Analytix**.
+### 21.04.2023 (announcement BioX)
+- 🎉Exciting news!🎉 We're thrilled to announce that we're adding BioX to the Cloudflare network.💻🌐 This is a major win for our customers, as BioX will provide advanced security features and improve overall performance.🔒🚀 #cloudflare #security #performance
 
-### 16.01.2023 (announcement Analytix)
-- The code is now ready for the launch of version 3.6 for **Analytix**.
+### 21.04.2023 (announcement BioX)
+- 🚨Attention🚨: Our team is hard at work on BioX 💻🧬🔬 after Google Chrome removed the dangerous banner 🙅‍♀️🚫. Stay tuned for updates! #BioX #GoogleChrome #safetyfirst 🌟
 
-### 16.01.2023 (announcement Analytix)
--  **Analytix** gets a big update today - we are going to launch v3.6. 😍
+### 20.04.2023 (announcement BioX)
+- 👋 Hey, everyone! We want to know what you think about the new BioX logo and icon! 🤔 Share your thoughts with us! 🙌 #BioX #Logo #Icon #Design #Feedback #Community #Emojis
+- https://user-images.githubusercontent.com/102324985/233479114-eda6f776-6ed3-45e8-96a0-9e25c0d1cb10.png
+- https://user-images.githubusercontent.com/102324985/233479200-d49f92da-5fc6-4542-bafc-6940d0dd14c9.png
 
-### 07.01.2023 (announcement Analytix)
-- https://github.com/linkspreed/Analytix/blob/main/changelog.md
-- The entire changelog is now available on Github.
+### 20.04.2023 (announcement BioX)
+- 🚀👨‍💻💻💪 Busy day at BioX! We're putting in work on the frontend today to make our platform even better. Exciting things to come! #BioX #Frontend #Innovation #TechLife
 
-### 07.01.2023 (announcement Analytix)
-- The launch of version 3.5.1 of **Analytix** was successful! 🥳
-- The new update is live now :)
-- https://analytix.tk 🔗
+### 19.04.2023 (announcement BioX)
+- Exciting news for all link-related tasks! BioX is stepping up to the plate and revolutionizing the way we approach link management. Stay tuned for the future of hyperlinking! #BioX #linkmanagement #innovation
 
-### 07.01.2023 (announcement Analytix)
-- We are now starting the launch of v3.5.1.
+### 19.04.2023 (announcement BioX)
+- Exciting news! We're putting our all into BioX - the ultimate Link platform. Stay tuned for updates on our progress 🚀 #BioX #LinkPlatform #Innovation
 
-### 07.01.2023 (announcement Analytix)
-- The servers are now ready for the launch of version 3.5.1 for **Analytix**.
+### 18.04.2023 (announcement)
+- 🚀 Exciting news! 🔥 We’ve officially started the countdown for the Cloud release on our Cloud solutions! ⏳ #CloudRelease #ExcitingTimes #TechUpdates 🌟
 
-### 07.01.2023 (announcement Analytix)
-- The code is now ready for the launch of version 3.5.1 for **Analytix**.
+### 18.04.2023 (announcement BioX)
+- 🎉👏Exciting news! 🌱🧬 Our team has achieved major breakthroughs in #BioX work development! 🚀👨‍🔬👩‍🔬 Stay tuned for what's next! #innovation #science #tech
 
-### 07.01.2023 (announcement Analytix)
--  **Analytix** gets a big update today - we are going to launch v3.5.1. 😍
+### 18.04.2023 (announcement BioX)
+- Exciting news! We're dedicating some time to focus on our minor platform project BioX. Stay tuned for updates on how this innovation will enhance our user experience. #BioX #MinorPlatformProject #Innovation
 
-### 07.01.2023 (announcement Analytix)
-- We're currently working on v3.5.1 for **Analytix**!
+### 30.01.2023 (announcement BioX)
+- We're working on **BioX**.
 
-### 04.01.2023 (announcement Analytix)
-- https://github.com/linkspreed/Analytix/blob/main/changelog.md
-- The entire changelog is now available on Github.
+### 18.01.2023 (announcement BioX)
+- We're working on **BioX** - a cool experimental program! 🔗
 
-### 04.01.2023 (announcement Analytix)
-- The launch of version 3.5.0 of **Analytix** was successful! 🥳
-- The new update is live now :)
-- https://analytix.tk 🔗
+### 21.12.2022 (announcement BioX)
+- We are working on a bug on **BioX**, the platform which is still under development.
 
-### 04.01.2023 (announcement Analytix)
-- We are now starting the launch of v3.5.0.
+### 20.12.2022 (announcement BioX)
+- We're still working on **BioX**.
 
-### 04.01.2023 (announcement Analytix)
-- The servers are now ready for the launch of version 3.5.0 for **Analytix**.
+### 20.12.2022 (announcement)
+- We've mailed Floyx for a cooperation ...
 
-### 04.01.2023 (announcement Analytix)
-- The code is now ready for the launch of version 3.5.0 for **Analytix**.
+### 19.12.2022 (announcement BioX)
+- More work effort on **BioX**.
 
-### 04.01.2023 (announcement Analytix)
--  **Analytix** gets a big update today - we are going to launch v3.5.0. 😍
+### 19.12.2022 (announcement LaaS)
+- We're still working on **LaaS**.
 
-### 04.01.2023 (announcement Analytix)
-- Soon we will release version 3.5 for **Analytix**.
+### 19.12.2022 (announcement BioX)
+- We're still working on **BioX**.
 
-### 18.10.2022 (announcement Analytix)
-- The entire changelog up to version 3.4.0 is now available on Github.
-- https://github.com/linkspreed/Analytix/blob/main/changelog.md
-
-### 18.10.2022 (announcement Analytix)
-- Version 3.4.0 has been released successfully. 😺
-
-### 18.10.2022 (announcement Analytix)
-- We are starting to launch version 3.4.0 now :)
-
-### 18.10.2022 (announcement Analytix)
-- The servers and code are ready for the new update!
-
-### 18.10.2022 (announcement Analytix)
-- We will now launch and release version 3.4.0 for **Analytix**.
-
-# 18.10.2022
-  - We are working on an new update
-
-# 21.07.2022
-  - The new version 3.3.0 is publicly freely available. The changes are all in the changelog.
-
-# 21.07.2022
-  - We will release a **new version v3.3.0** soon.
-
-# 11.06.2022
-  - Today on June 11th, 2022 we connected and pushed **Analytix** to the Cloudflare infrastructure.
-     - This improves both **speed** and **safety**.
+### 19.12.2022 (announcement BioX)
+- We're working on a new project called **BioX**.
