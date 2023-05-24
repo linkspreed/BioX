@@ -2,8 +2,8 @@
 
 🔗 BioX is a powerful biolink generator and URL shortener, perfect for creating concise and impactful bio descriptions across various platforms. 📝🔗✂️
 
-## **[Changelog 💙](https://github.com/linkspreed/Analytix/blob/main/changelog.md)** **Check out the full Analytix changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Analytix/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Analytix besides development**
+## **[Changelog 📝](https://github.com/linkspreed/BioX/blob/main/changelog.md)** **Check out the full BioX changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/BioX/blob/main/Special_Works.md)** **Take a look at what changes we are doing to BioX besides development**
 
 
 <div align="center">
@@ -50,7 +50,7 @@
 
 ## More
  
-Analytix is **free**, **real-time** and with **unlimited** resources 
+BioX is **free**, **real-time** and with **unlimited** resources 
 for developers around the world.
 
 Our focus is on **usability** and **security** 
@@ -61,22 +61,22 @@ for our developers, users and anyone who comes into contact with ([Linkspreed �
     is developed properly so that 
     the platform works as well as possible.
 ```
- You can enjoy Analytix freely and use all features to an unlimited extent.
+ You can enjoy BioX freely and use all features to an unlimited extent.
 
 ## 📷 UI
 
 
 ### Privacy focused web analytics
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/1.PNG" draggable="false" />
+<img align="center" alt="BioX" width="3000px" src="https://github.com/linkspreed/BioX/blob/main/screenshots/1.PNG" draggable="false" />
 
 ### Analytics
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/2.PNG" draggable="false" />
+<img align="center" alt="BioX" width="3000px" src="https://github.com/linkspreed/BioX/blob/main/screenshots/2.PNG" draggable="false" />
 
 ### Register now
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/3.PNG" draggable="false" />
+<img align="center" alt="BioX" width="3000px" src="https://github.com/linkspreed/BioX/blob/main/screenshots/3.PNG" draggable="false" />
 
 ### Dashboard
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/4.PNG" draggable="false" />
+<img align="center" alt="BioX" width="3000px" src="https://github.com/linkspreed/BioX/blob/main/screenshots/4.PNG" draggable="false" />
 
 ### Add a new website
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/5.PNG" draggable="false" />
+<img align="center" alt="BioX" width="3000px" src="https://github.com/linkspreed/BioX/blob/main/screenshots/5.PNG" draggable="false" />
