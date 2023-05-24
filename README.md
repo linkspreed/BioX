@@ -1,4 +1,4 @@
-# <img align="left" alt="Analytix" width="40px" src="https://analytix.tk/uploads/brand/ys17CmIE61mY5SrzlKBu2UbanlIvzwW2l7qmb9PX.png" draggable="false" /> Analytix ([Click to try 🚀](https://analytix.tk/)) (v3.6.1)
+# <img align="left" alt="Analytix" width="40px" src="https://github.com/linkspreed/BioX/assets/102324985/912f1990-fbed-41b0-aaed-9ea7075f4d49" draggable="false" /> ([Click to try 🚀](https://biox.ga/)) (v3.0.3)
 
 Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
 
