@@ -1,8 +1,6 @@
-# <img align="left" alt="Analytix" width="40px" src="https://github.com/linkspreed/BioX/assets/102324985/912f1990-fbed-41b0-aaed-9ea7075f4d49" draggable="false" /> ([Click to try 🚀](https://biox.ga/)) (v3.0.3)
+# <img align="left" alt="Analytix" width="140px" src="https://github.com/linkspreed/BioX/assets/102324985/912f1990-fbed-41b0-aaed-9ea7075f4d49" draggable="false" /> ([Click to try 🚀](https://biox.ga/)) (v3.0.3)
 
-Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
-
-
+🔗 BioX is a powerful biolink generator and URL shortener, perfect for creating concise and impactful bio descriptions across various platforms. 📝🔗✂️
 
 ## **[Changelog 💙](https://github.com/linkspreed/Analytix/blob/main/changelog.md)** **Check out the full Analytix changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/Analytix/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Analytix besides development**
