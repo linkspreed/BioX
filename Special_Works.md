@@ -1,3 +1,6 @@
+### 05.06.2023 (announcement BioX)
+- 🚨Attention🚨 The first affected website due to Gabon's domain deletion, BioX, will soon be back online! We're taking about an hour to re-implement it into our system. Who else is relieved to hear this news? #GabonDomainShutdown #BioX #ThankfulForUpdates 🙌❤️
+
 ### 24.05.2023 (announcement BioX)
 - 🎉👨‍💻🚀 Exciting news! We've completed all backend developments for BioX. 🌱🌻🌿 Have you noticed the new platform features? Let us know which ones you love the most! #BioX #backenddevelopments #platformfeatures 💬
 
