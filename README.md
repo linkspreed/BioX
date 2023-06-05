@@ -1,4 +1,4 @@
-# <img align="left" alt="Analytix" width="160px" src="https://github.com/linkspreed/BioX/assets/102324985/912f1990-fbed-41b0-aaed-9ea7075f4d49" draggable="false" /> ([Click to try 🚀](https://biox.ga/)) (v3.0.3)
+# <img align="left" alt="BioX" width="160px" src="https://github.com/linkspreed/BioX/assets/102324985/912f1990-fbed-41b0-aaed-9ea7075f4d49" draggable="false" /> ([Click to try 🚀](https://biox.linkspreed.com/)) (v3.0.3)
 
 🔗 BioX is a powerful biolink generator and URL shortener, perfect for creating concise and impactful bio descriptions across various platforms. 📝🔗✂️
 
